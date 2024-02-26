@@ -75,3 +75,4 @@ psql --usename=freecodecamp --dbname=postgres
 touch .gitignore
 ls --color=auto
 ls --color=auto
+psql --username=freecodecamp --dbname=postgres
